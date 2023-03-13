@@ -1,0 +1,181 @@
+body{
+
+
+    background-image: url(https://wallpapercave.com/wp/wp3493599.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#a{
+
+color: white;
+font-weight: 600;
+text-align: center;
+margin-top: 280px;
+font-size: xxx-large;
+margin-bottom: -30px;
+
+}
+
+#b{
+
+color: white;
+text-align: center;
+font-weight: 550;
+font-size: xx-large;
+margin-bottom: -10px;
+margin-right: -10px;
+
+}
+
+
+#c{
+
+color: white;
+text-align: center;
+margin-top: 0px;
+font-size: xxx-large;
+
+
+}
+
+
+.texts{
+
+user-select: none;
+margin: 0px;
+width: 150px;
+height: 150px;
+justify-content: center;
+margin: auto;
+
+}
+
+
+#L{
+
+
+    background-color: transparent;
+    color: white;
+    border: solid transparent;
+    font-size: larger;
+   text-decoration: underline;
+   transition: transform 0.2s ease-in-out;
+}
+
+#L:hover{
+
+    transform: scale(1.1);
+    color: aquamarine;
+
+}
+
+
+#M{
+
+    background-color: transparent;
+    color: white;
+    border: solid transparent;
+    font-size: larger;
+    text-decoration: underline;
+    transition: transform 0.2s ease-in-out;
+
+}
+
+#M:hover{
+
+    transform: scale(1.1);
+    color: aquamarine;
+    
+}
+
+
+#A{
+
+    background-color: transparent;
+    color: white;
+    border: solid transparent;
+    font-size: larger;
+text-decoration: underline;
+transition: transform 0.2s ease-in-out;
+}
+
+#A:hover{
+
+transform: scale(1.1);
+color: aquamarine;
+
+}
+
+#O{
+
+    background-color: transparent;
+    color: white;
+    border: solid transparent;
+    font-size: larger;
+text-decoration: underline;
+transition: transform 0.2s ease-in-out;
+}
+
+#O:hover{
+
+transform: scale(1.1);
+color: aquamarine;
+
+}
+
+
+.buttons{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -420px;
+    margin-right: 30px;
+    gap: 150px;
+
+}
+
+
+.texts{
+
+
+transition: transform 0.2s ease-in-out;
+position: relative;
+
+}
+
+.texts:hover{
+
+transform: scale(1.1);
+
+
+}
+
+
+table{
+
+color: white;
+justify-content: center;
+display: flex;
+margin-top: 600px;
+margin-left: -5px;
+border-spacing: 15px;
+font-weight: 900;
+
+
+
+}
+
+#open{
+
+display: flex;
+justify-content: center;
+color: white;
+ margin-top: -120px;
+ user-select: none;
+}
+
+
+
